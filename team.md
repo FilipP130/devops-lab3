@@ -1,4 +1,4 @@
 # Informacje o członku zespołu
-Imię:
-Nazwisko:
+Imię:Filip
+Nazwisko:Padacz
 Ulubiona technologia:
